@@ -1,0 +1,301 @@
+<FullStudiesResponse>
+  <APIVrs>1.01.02</APIVrs>
+  <DataVrs>2020:04:10 01:10:27.788</DataVrs>
+  <Expression>NCT04185337</Expression>
+  <NStudiesAvail>335688</NStudiesAvail>
+  <NStudiesFound>1</NStudiesFound>
+  <MinRank>1</MinRank>
+  <MaxRank>1</MaxRank>
+  <NStudiesReturned>1</NStudiesReturned>
+  <FullStudyList>
+    <FullStudy Rank="1">
+      <Struct Name="Study">
+        <Struct Name="ProtocolSection">
+          <Struct Name="IdentificationModule">
+            <Field Name="NCTId">NCT04185337</Field>
+            <Struct Name="OrgStudyIdInfo">
+              <Field Name="OrgStudyId">2019-0461</Field>
+            </Struct>
+            <List Name="SecondaryIdInfoList">
+              <Struct Name="SecondaryIdInfo">
+                <Field Name="SecondaryId">NCI-2019-07316</Field>
+                <Field Name="SecondaryIdType">Registry Identifier</Field>
+                <Field Name="SecondaryIdDomain">CTRP (Clinical Trial Reporting Program)</Field>
+              </Struct>
+              <Struct Name="SecondaryIdInfo">
+                <Field Name="SecondaryId">2019-0461</Field>
+                <Field Name="SecondaryIdType">Other Identifier</Field>
+                <Field Name="SecondaryIdDomain">M D Anderson Cancer Center</Field>
+              </Struct>
+              <Struct Name="SecondaryIdInfo">
+                <Field Name="SecondaryId">P30CA016672</Field>
+                <Field Name="SecondaryIdType">U.S. NIH Grant/Contract</Field>
+                <Field Name="SecondaryIdLink">https://projectreporter.nih.gov/reporterapi.cfm?PROJECTNUM=P30CA016672&amp;Fy=all</Field>
+              </Struct>
+            </List>
+            <Struct Name="Organization">
+              <Field Name="OrgFullName">M.D. Anderson Cancer Center</Field>
+              <Field Name="OrgClass">OTHER</Field>
+            </Struct>
+            <Field Name="BriefTitle">Ultrasound-Guided Photoacoustic Imaging for the Detection of Metastases in Inguinal Lymph Nodes</Field>
+            <Field Name="OfficialTitle">The Role of Ultrasound-Guided Photoacoustic Imaging in Detection of Metastases in Inguinal Lymph Nodes</Field>
+          </Struct>
+          <Struct Name="StatusModule">
+            <Field Name="StatusVerifiedDate">December 2019</Field>
+            <Field Name="OverallStatus">Not yet recruiting</Field>
+            <Struct Name="ExpandedAccessInfo">
+              <Field Name="HasExpandedAccess">No</Field>
+            </Struct>
+            <Struct Name="StartDateStruct">
+              <Field Name="StartDate">March 31, 2020</Field>
+              <Field Name="StartDateType">Anticipated</Field>
+            </Struct>
+            <Struct Name="PrimaryCompletionDateStruct">
+              <Field Name="PrimaryCompletionDate">June 11, 2021</Field>
+              <Field Name="PrimaryCompletionDateType">Anticipated</Field>
+            </Struct>
+            <Struct Name="CompletionDateStruct">
+              <Field Name="CompletionDate">June 11, 2021</Field>
+              <Field Name="CompletionDateType">Anticipated</Field>
+            </Struct>
+            <Field Name="StudyFirstSubmitDate">December 2, 2019</Field>
+            <Field Name="StudyFirstSubmitQCDate">December 2, 2019</Field>
+            <Struct Name="StudyFirstPostDateStruct">
+              <Field Name="StudyFirstPostDate">December 4, 2019</Field>
+              <Field Name="StudyFirstPostDateType">Actual</Field>
+            </Struct>
+            <Field Name="LastUpdateSubmitDate">December 2, 2019</Field>
+            <Struct Name="LastUpdatePostDateStruct">
+              <Field Name="LastUpdatePostDate">December 4, 2019</Field>
+              <Field Name="LastUpdatePostDateType">Actual</Field>
+            </Struct>
+          </Struct>
+          <Struct Name="SponsorCollaboratorsModule">
+            <Struct Name="ResponsibleParty">
+              <Field Name="ResponsiblePartyType">Sponsor</Field>
+            </Struct>
+            <Struct Name="LeadSponsor">
+              <Field Name="LeadSponsorName">M.D. Anderson Cancer Center</Field>
+              <Field Name="LeadSponsorClass">OTHER</Field>
+            </Struct>
+            <List Name="CollaboratorList">
+              <Struct Name="Collaborator">
+                <Field Name="CollaboratorName">National Cancer Institute (NCI)</Field>
+                <Field Name="CollaboratorClass">NIH</Field>
+              </Struct>
+            </List>
+          </Struct>
+          <Struct Name="OversightModule">
+            <Field Name="OversightHasDMC">No</Field>
+            <Field Name="IsFDARegulatedDrug">No</Field>
+            <Field Name="IsFDARegulatedDevice">Yes</Field>
+          </Struct>
+          <Struct Name="DescriptionModule">
+            <Field Name="BriefSummary">This early phase I trial studies how well ultrasound-guided photoacoustic imaging works in telling the difference between healthy and cancerous inguinal (groin) lymph nodes and how well it can detect certain features of lymph nodes, including size and shape in patients with cancer. Ultrasound-guided photoacoustic is a non-invasive imaging method that can detect and display characteristics of lymph nodes based on the level of oxygen in the cells. This imaging method may provide more accurate tumor staging and prevent unnecessary surgical interventions.</Field>
+            <Field Name="DetailedDescription">PRIMARY OBJECTIVE:
+
+I. To estimate the mean difference in oxygen saturation (%sO2) between healthy and malignant inguinal lymph nodes using ultrasound-guided photoacoustic imaging (PAI) in cancer patients.
+
+SECONDARY OBJECTIVE:
+
+I. To examine the role of ultrasound-guided PAI in detecting metastases in the inguinal lymph nodes and ultrasound features of lymph nodes such as the size, shape of the lymph nodes.
+
+OUTLINE:
+
+Patients undergo standard of care ultrasound of the lymph nodes, then undergo ultrasound-guided PAI over 3-5 minutes. Patients then undergo standard of care ultrasound-guided fine needle aspiration (FNA) or biopsy a suspicious lymph node.
+
+After completion of study, patients are followed up for 3 months.</Field>
+          </Struct>
+          <Struct Name="ConditionsModule">
+            <List Name="ConditionList">
+              <Field Name="Condition">Malignant Neoplasm</Field>
+            </List>
+          </Struct>
+          <Struct Name="DesignModule">
+            <Field Name="StudyType">Interventional</Field>
+            <List Name="PhaseList">
+              <Field Name="Phase">Not Applicable</Field>
+            </List>
+            <Struct Name="DesignInfo">
+              <Field Name="DesignInterventionModel">Single Group Assignment</Field>
+              <Field Name="DesignPrimaryPurpose">Diagnostic</Field>
+              <Struct Name="DesignMaskingInfo">
+                <Field Name="DesignMasking">None (Open Label)</Field>
+              </Struct>
+            </Struct>
+            <Struct Name="EnrollmentInfo">
+              <Field Name="EnrollmentCount">10</Field>
+              <Field Name="EnrollmentType">Anticipated</Field>
+            </Struct>
+          </Struct>
+          <Struct Name="ArmsInterventionsModule">
+            <List Name="ArmGroupList">
+              <Struct Name="ArmGroup">
+                <Field Name="ArmGroupLabel">Diagnostic (ultrasound, ultrasound-guided PAI, FNA, biopsy)</Field>
+                <Field Name="ArmGroupType">Experimental</Field>
+                <Field Name="ArmGroupDescription">Patients undergo standard of care ultrasound of the lymph nodes, then undergo ultrasound-guided PAI over 3-5 minutes. Patients then undergo standard of care ultrasound-guided FNA or biopsy a suspicious lymph node.</Field>
+                <List Name="ArmGroupInterventionList">
+                  <Field Name="ArmGroupInterventionName">Procedure: Fine-Needle Aspiration</Field>
+                  <Field Name="ArmGroupInterventionName">Procedure: Lymph Node Biopsy</Field>
+                  <Field Name="ArmGroupInterventionName">Procedure: Photoacoustic Imaging</Field>
+                  <Field Name="ArmGroupInterventionName">Procedure: Ultrasound</Field>
+                </List>
+              </Struct>
+            </List>
+            <List Name="InterventionList">
+              <Struct Name="Intervention">
+                <Field Name="InterventionType">Procedure</Field>
+                <Field Name="InterventionName">Fine-Needle Aspiration</Field>
+                <Field Name="InterventionDescription">Undergo ultrasound-guided FNA</Field>
+                <List Name="InterventionArmGroupLabelList">
+                  <Field Name="InterventionArmGroupLabel">Diagnostic (ultrasound, ultrasound-guided PAI, FNA, biopsy)</Field>
+                </List>
+                <List Name="InterventionOtherNameList">
+                  <Field Name="InterventionOtherName">Aspirate, Fine Needle</Field>
+                  <Field Name="InterventionOtherName">Fine Needle Aspiration</Field>
+                  <Field Name="InterventionOtherName">fine-needle aspiration biopsy</Field>
+                  <Field Name="InterventionOtherName">FNA</Field>
+                  <Field Name="InterventionOtherName">FNA biopsy</Field>
+                </List>
+              </Struct>
+              <Struct Name="Intervention">
+                <Field Name="InterventionType">Procedure</Field>
+                <Field Name="InterventionName">Lymph Node Biopsy</Field>
+                <Field Name="InterventionDescription">Undergo ultrasound-guided lymph node biopsy</Field>
+                <List Name="InterventionArmGroupLabelList">
+                  <Field Name="InterventionArmGroupLabel">Diagnostic (ultrasound, ultrasound-guided PAI, FNA, biopsy)</Field>
+                </List>
+                <List Name="InterventionOtherNameList">
+                  <Field Name="InterventionOtherName">Biopsy of Lymph Node</Field>
+                </List>
+              </Struct>
+              <Struct Name="Intervention">
+                <Field Name="InterventionType">Procedure</Field>
+                <Field Name="InterventionName">Photoacoustic Imaging</Field>
+                <Field Name="InterventionDescription">Undergo ultrasound-guided PAI</Field>
+                <List Name="InterventionArmGroupLabelList">
+                  <Field Name="InterventionArmGroupLabel">Diagnostic (ultrasound, ultrasound-guided PAI, FNA, biopsy)</Field>
+                </List>
+              </Struct>
+              <Struct Name="Intervention">
+                <Field Name="InterventionType">Procedure</Field>
+                <Field Name="InterventionName">Ultrasound</Field>
+                <Field Name="InterventionDescription">Undergo ultrasound</Field>
+                <List Name="InterventionArmGroupLabelList">
+                  <Field Name="InterventionArmGroupLabel">Diagnostic (ultrasound, ultrasound-guided PAI, FNA, biopsy)</Field>
+                </List>
+              </Struct>
+            </List>
+          </Struct>
+          <Struct Name="OutcomesModule">
+            <List Name="PrimaryOutcomeList">
+              <Struct Name="PrimaryOutcome">
+                <Field Name="PrimaryOutcomeMeasure">Difference between background oxygen saturation (%sO2) and nodal %sO2</Field>
+                <Field Name="PrimaryOutcomeDescription">For each suspicious lymph node, a %sO2 throughout the entire lymph node volume will be obtained. The %sO2 from the tissue immediately surrounding each lymph node will also be calculated to account for variations in background %sO2. The tumor status will be confirmed with ex vivo histopathology. Will scan normal lymph nodes in the same or contralateral inguinal region and will use as controls. Data will be analyzed once the benignities of these lymph nodes are determined.</Field>
+                <Field Name="PrimaryOutcomeTimeFrame">Up to 3 months</Field>
+              </Struct>
+            </List>
+          </Struct>
+          <Struct Name="EligibilityModule">
+            <Field Name="EligibilityCriteria">Inclusion Criteria:
+
+Pathologically proven primary malignancy
+Suspicious inguinal lymph nodes for metastasis on a conventional imaging modality
+Scheduled to undergo ultrasound-guided fine needle aspiration cytology or biopsy
+
+Exclusion Criteria:
+
+Melanoma patients, since the melanocytes may have a &quot;masking effect&quot;
+The deeper inguinal lymph nodes (3-5 cm deep) and smaller (&lt; 1 cm in short axis) in dimensions will be excluded from the study</Field>
+            <Field Name="HealthyVolunteers">No</Field>
+            <Field Name="Gender">All</Field>
+            <Field Name="MinimumAge">18 Years</Field>
+            <List Name="StdAgeList">
+              <Field Name="StdAge">Adult</Field>
+              <Field Name="StdAge">Older Adult</Field>
+            </List>
+          </Struct>
+          <Struct Name="ContactsLocationsModule">
+            <List Name="CentralContactList">
+              <Struct Name="CentralContact">
+                <Field Name="CentralContactName">Priya R. Bhosale</Field>
+                <Field Name="CentralContactRole">Contact</Field>
+                <Field Name="CentralContactPhone">713-792-0221</Field>
+                <Field Name="CentralContactEMail">priya.bhosale@mdanderson.org</Field>
+              </Struct>
+            </List>
+            <List Name="OverallOfficialList">
+              <Struct Name="OverallOfficial">
+                <Field Name="OverallOfficialName">Priya R Bhosale</Field>
+                <Field Name="OverallOfficialAffiliation">M.D. Anderson Cancer Center</Field>
+                <Field Name="OverallOfficialRole">Principal Investigator</Field>
+              </Struct>
+            </List>
+            <List Name="LocationList">
+              <Struct Name="Location">
+                <Field Name="LocationFacility">M D Anderson Cancer Center</Field>
+                <Field Name="LocationCity">Houston</Field>
+                <Field Name="LocationState">Texas</Field>
+                <Field Name="LocationZip">77030</Field>
+                <Field Name="LocationCountry">United States</Field>
+                <List Name="LocationContactList">
+                  <Struct Name="LocationContact">
+                    <Field Name="LocationContactName">Priya R. Bhosale</Field>
+                    <Field Name="LocationContactRole">Contact</Field>
+                    <Field Name="LocationContactPhone">713-792-0221</Field>
+                  </Struct>
+                  <Struct Name="LocationContact">
+                    <Field Name="LocationContactName">Priya R. Bhosale</Field>
+                    <Field Name="LocationContactRole">Principal Investigator</Field>
+                  </Struct>
+                </List>
+              </Struct>
+            </List>
+          </Struct>
+          <Struct Name="ReferencesModule">
+            <List Name="SeeAlsoLinkList">
+              <Struct Name="SeeAlsoLink">
+                <Field Name="SeeAlsoLinkLabel">University of Texas MD Anderson Cancer Center Website</Field>
+                <Field Name="SeeAlsoLinkURL">http://www.mdanderson.org</Field>
+              </Struct>
+            </List>
+          </Struct>
+        </Struct>
+        <Struct Name="DerivedSection">
+          <Struct Name="MiscInfoModule">
+            <Field Name="VersionHolder">April 10, 2020</Field>
+          </Struct>
+          <Struct Name="ConditionBrowseModule">
+            <List Name="ConditionMeshList">
+              <Struct Name="ConditionMesh">
+                <Field Name="ConditionMeshId">D000009369</Field>
+                <Field Name="ConditionMeshTerm">Neoplasms</Field>
+              </Struct>
+            </List>
+            <List Name="ConditionBrowseLeafList">
+              <Struct Name="ConditionBrowseLeaf">
+                <Field Name="ConditionBrowseLeafId">M10890</Field>
+                <Field Name="ConditionBrowseLeafName">Neoplasm Metastasis</Field>
+                <Field Name="ConditionBrowseLeafRelevance">low</Field>
+              </Struct>
+            </List>
+            <List Name="ConditionBrowseBranchList">
+              <Struct Name="ConditionBrowseBranch">
+                <Field Name="ConditionBrowseBranchAbbrev">BC04</Field>
+                <Field Name="ConditionBrowseBranchName">Cancers and Other Neoplasms</Field>
+              </Struct>
+              <Struct Name="ConditionBrowseBranch">
+                <Field Name="ConditionBrowseBranchAbbrev">BC23</Field>
+                <Field Name="ConditionBrowseBranchName">Symptoms and General Pathology</Field>
+              </Struct>
+              <Struct Name="ConditionBrowseBranch">
+                <Field Name="ConditionBrowseBranchAbbrev">All</Field>
+                <Field Name="ConditionBrowseBranchName">All Conditions</Field>
+              </Struct>
+            </List>
+          </Struct>
+        </Struct>
+      </Struct>
+    </FullStudy>
+  </FullStudyList>
+</FullStudiesResponse>
